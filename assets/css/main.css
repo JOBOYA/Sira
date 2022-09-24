@@ -4725,10 +4725,12 @@ input, select, textarea {
 
 
 	#jo{
-		display: inline-block;
-		width: 400px;
+		
 		box-shadow:  #fdf8f1 10px 10px ;
 		border-radius: 15px 15px;
+		display: block;
+		margin: 2.5rem 0;
+		width: 100%;
 		
 		
 	}
