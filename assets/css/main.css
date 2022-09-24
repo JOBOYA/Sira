@@ -2613,6 +2613,7 @@ input, select, textarea {
 
 		.image img {
 			display: block;
+			border-radius: 15px 15px;
 		}
 
 		.image.left, .image.right {
@@ -4720,4 +4721,14 @@ input, select, textarea {
 		
 		width: 400px;
 
+	}
+
+
+	#jo{
+		display: inline-block;
+		width: 400px;
+		box-shadow:  #fdf8f1 10px 10px ;
+		border-radius: 15px 15px;
+		
+		
 	}
