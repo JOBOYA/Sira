@@ -4717,9 +4717,9 @@ input, select, textarea {
 
 
 	#bo{
-		display:inline-block;
-		
-		width: 400px;
+		display: block;
+		margin: 2.5rem 0;
+		width: 100%;
 
 	}
 
